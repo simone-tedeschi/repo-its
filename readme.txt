@@ -1,3 +1,2 @@
 file
-gg
 fine
